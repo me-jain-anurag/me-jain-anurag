@@ -42,6 +42,5 @@ I'm passionate about **algorithms, competitive programming, and practical softwa
 💬 If you have any ideas that you would like for me to implement or you just wish to talk to me about my work feel free to reach out to me at:
 
 
-📧 **Email:** [anuragj4711@outlook.com]  
-🐦 **Twitter:** [Your Twitter Handle]  
+📧 **Email:** [anuragj4711@outlook.com]
 💻 **GitHub:** [me-jain-anurag](https://github.com/me-jain-anurag)
