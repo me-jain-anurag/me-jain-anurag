@@ -6,7 +6,7 @@ I'm passionate about **algorithms, competitive programming, and practical softwa
 
   
 🔹 **Math Enthusiast** | Exploring algorithms, patterns, and problem-solving  
-🔹 **C++ Developer** (SFML for graphics, OOP for game projects) 
+🔹 **C++ Developer** (Algoritm-based and OOP for game projects) 
 🔹 **Competitive Programming** | Codeforces Rating: **1000**  
 
 ---  
@@ -16,23 +16,19 @@ I'm passionate about **algorithms, competitive programming, and practical softwa
 ### 🔢 **Algorithm-Based Projects**  
 📌 [algorithmBasedProjects](https://github.com/me-jain-anurag/algorithmBasedProjects) – Showcasing the **abstract nature of algorithms** through practical implementations like **maze generators, solvers, and more.**  
 
-### 🎨 **SFML Renderings**  
-📌 [SFML Renderings](https://github.com/me-jain-anurag/SFML-renderings) – **Rendering algorithmic projects visually** using **SFML** for a more interactive experience.  
 
 ---  
 
 ## 🛠️ Tech Stack & Skills  
 
-- **Languages:** C++, C  
-- **Game Development:** SFML (Eploring)
+- **Languages:** C++, C
 - **Tools & Platforms:** Visual Studio Code, Git, GitHub
 
 ---  
 
 ## 📚 My Learning Goals  
 
-🔸 **Master Data Structures & Algorithms** (Balancing DSA with Math)  
-🔸 **Explore Graphics Programming** (Starting with SFML)  
+🔸 **Master Data Structures & Algorithms** (Balancing DSA with Math) 
 🔸 **Refine my Problem Solving Skills**  (With Competitive Programming)
 
 ---  
