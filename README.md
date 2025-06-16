@@ -2,20 +2,12 @@
 
 ## 🚀 About Me  
 
-I'm passionate about **algorithms, competitive programming, and practical software development**. I love discovering the **logical structure** behind problems and optimizing solutions, whether in **C++** or through mathematical reasoning.  
+I'm passionate about **algorithms and competitive programming**. I love discovering the **logical structure** behind problems and optimizing solutions, whether in **C++** or through mathematical reasoning.  
 
-  
-🔹 **Math Enthusiast** | Exploring algorithms, patterns, and problem-solving  
-🔹 **C++ Developer** (Algoritm-based and OOP for game projects) 
-🔹 **Competitive Programming** | Codeforces Rating: **1000**  
-
----  
-
-## 🏗️ Currently working on  
-
-### 🔢 **Algorithm-Based Projects**  
-📌 [algorithmBasedProjects](https://github.com/me-jain-anurag/algorithmBasedProjects) – Showcasing the **abstract nature of algorithms** through practical implementations like **maze generators, solvers, and more.**  
-
+   
+🔹 **Competitive Programming**
+- Codeforces handle: **fuchsia_wn** 
+- Codechef handle: **whole_lily_87**
 
 ---  
 
@@ -39,4 +31,3 @@ I'm passionate about **algorithms, competitive programming, and practical softwa
 
 
 📧 **Email:** [anuragj4711@outlook.com]
-💻 **GitHub:** [me-jain-anurag](https://github.com/me-jain-anurag)
