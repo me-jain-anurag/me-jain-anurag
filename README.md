@@ -1,33 +1,35 @@
-# 👋 Hi, I'm Anurag Jain!  
+## 👋 Hey, I’m Anurag
+I like building systems that go deeper than just surface-level apps — things that involve algorithms, data flow, and strong backend logic. I spend most of my time improving at competitive programming and exploring system-level development, especially in **Golang** and **Blockchain**.
 
-## 🚀 About Me  
+---
 
-I'm passionate about **algorithms and competitive programming**. I love discovering the **logical structure** behind problems and optimizing solutions, whether in **C++** or through mathematical reasoning.  
+## 🔧 Interests
+- Blockchain fundamentals and implementation  
+- Backend development in Go and C++  
+- Algorithms & Competitive Programming (Codeforces ~1500)  
+- System design basics
 
-   
-🔹 **Competitive Programming**
-- Codeforces handle: **fuchsia_wn** 
-- Codechef handle: **whole_lily_87**
+---
 
----  
+## 🚀 Selected Projects
 
-## 🛠️ Tech Stack & Skills  
+### 🔗 Go-Blockchain
+My implementation of a simple blockchain in Go. Built block structure, hashing, proof-of-work logic, and a basic chain flow.
 
-- **Languages:** C++, C
-- **Tools & Platforms:** Visual Studio Code, Git, GitHub
+### 🤝 SkillSwap Platform
+A platform concept where students can exchange skills. Worked on core backend flow and data handling.
 
----  
+### ♻️ Recyclable Object Detector
+A small ML project using transfer learning. Not my current focus, but included as part of my learning path.
 
-## 📚 My Learning Goals  
+---
 
-🔸 **Master Data Structures & Algorithms** (Balancing DSA with Math) 
-🔸 **Refine my Problem Solving Skills**  (With Competitive Programming)
+## 💡 Currently Exploring
+- Building more blockchain-related projects  
+- Strengthening backend engineering skills  
+- Becoming faster and more accurate in CP  
 
----  
+---
 
-## 📫 Connect with Me  
-
-💬 If you have any ideas that you would like for me to implement or you just wish to talk to me about my work feel free to reach out to me at:
-
-
-📧 **Email:** [anuragj4711@outlook.com]
+## 📬 Reach Out
+Open to collaborations, ideas, and interesting system-building projects.
